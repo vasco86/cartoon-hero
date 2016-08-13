@@ -1,0 +1,21 @@
+header{
+	background-color: #4db8ff;
+	padding: 40px;
+	text-align: center;
+
+}	 
+h1{
+	font-size: 90px;
+	color: white;
+
+}
+	header img{
+		border-radius: 150px;
+	}
+
+	
+
+	 /*<head>
+			<title>Shrek</title>
+			<link rel="stylesheet" type="text/css" href="css/hero.css">
+		</head>
